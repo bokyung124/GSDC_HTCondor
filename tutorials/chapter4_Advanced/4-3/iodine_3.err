@@ -1,0 +1,8 @@
+/var/lib/condor/execute/dir_98120/geant4_run.sh: line 9: /usr/share/geant4/geant4make/geant4make.sh: No such file or directory
+cp: cannot stat ‘/shared/examples/advanced/brachytherapy/’: No such file or directory
+/var/lib/condor/execute/dir_98120/geant4_run.sh: line 17: cmake: command not found
+make: *** No targets specified and no makefile found.  Stop.
+/var/lib/condor/execute/dir_98120/geant4_run.sh: line 24: ./Brachy: No such file or directory
+mv: cannot stat ‘EnergyDeposition_iodine.out’: No such file or directory
+mv: cannot stat ‘brachytherapy.root’: No such file or directory
+mv: cannot stat ‘primary.root’: No such file or directory

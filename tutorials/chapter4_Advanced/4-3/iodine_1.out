@@ -1,0 +1,7 @@
+0. OS 버전 확인
+CentOS Linux release 7.9.2009 (Core)
+1. Geant4 환경변수를 로드합니다.
+2. Geant4 실습 문제를 복사합니다.
+3. Geant4 Adv 실습 문제 소스코드를 컴파일합니다.
+4. Geant4 Adv 실습문제를 실행합니다.
+5. 결과파일을 원래 디렉토리로 이동

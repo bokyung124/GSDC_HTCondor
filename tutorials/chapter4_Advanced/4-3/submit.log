@@ -1,0 +1,124 @@
+000 (060.000.000) 2023-08-02 17:23:34 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_137221_c55b>
+...
+000 (060.001.000) 2023-08-02 17:23:34 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_137221_c55b>
+...
+000 (060.002.000) 2023-08-02 17:23:34 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_137221_c55b>
+...
+000 (060.003.000) 2023-08-02 17:23:34 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_137221_c55b>
+...
+040 (060.000.000) 2023-08-02 17:23:34 Started transferring input files
+	Transferring to host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=slot1_28317_a359_5>
+...
+040 (060.000.000) 2023-08-02 17:23:34 Finished transferring input files
+...
+001 (060.000.000) 2023-08-02 17:23:34 Job executing on host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=startd_28280_4e66>
+	SlotName: slot1@node3.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_28471"
+	Cpus = 1
+	Disk = 3238212
+	Memory = 1894
+...
+040 (060.002.000) 2023-08-02 17:23:34 Started transferring input files
+	Transferring to host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=slot1_1_97614_a4bb_19>
+...
+040 (060.002.000) 2023-08-02 17:23:34 Finished transferring input files
+...
+040 (060.001.000) 2023-08-02 17:23:34 Started transferring input files
+	Transferring to host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=slot2_28317_a359_6>
+...
+001 (060.002.000) 2023-08-02 17:23:34 Job executing on host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=startd_97579_a7fc>
+	SlotName: slot1_1@node2.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_98119"
+	Cpus = 1
+	Disk = 5251
+	Memory = 128
+...
+001 (060.001.000) 2023-08-02 17:23:34 Job executing on host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=startd_28280_4e66>
+	SlotName: slot2@node3.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_28472"
+	Cpus = 1
+	Disk = 3238212
+	Memory = 1894
+...
+040 (060.001.000) 2023-08-02 17:23:34 Finished transferring input files
+...
+040 (060.003.000) 2023-08-02 17:23:34 Started transferring input files
+	Transferring to host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=slot1_2_97614_a4bb_20>
+...
+040 (060.003.000) 2023-08-02 17:23:34 Finished transferring input files
+...
+006 (060.000.000) 2023-08-02 17:23:34 Image size of job updated: 448
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+001 (060.003.000) 2023-08-02 17:23:34 Job executing on host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=startd_97579_a7fc>
+	SlotName: slot1_2@node2.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_98120"
+	Cpus = 1
+	Disk = 5251
+	Memory = 128
+...
+040 (060.000.000) 2023-08-02 17:23:34 Started transferring output files
+...
+040 (060.000.000) 2023-08-02 17:23:34 Finished transferring output files
+...
+006 (060.002.000) 2023-08-02 17:23:34 Image size of job updated: 556
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (060.001.000) 2023-08-02 17:23:34 Image size of job updated: 444
+	1  -  MemoryUsage of job (MB)
+	4  -  ResidentSetSize of job (KB)
+...
+007 (060.000.000) 2023-08-02 17:23:34 Shadow exception!
+	Error from slot1@node3.g1.23.gsdc.org: STARTER at 10.10.10.24 failed to send file(s) to <10.10.10.51:9618>: |Error: reading from file /var/lib/condor/execute/dir_28471/EnergyDeposition_iodine.out: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.10.10.24:39539>
+	966  -  Run Bytes Sent By Job
+	705  -  Run Bytes Received By Job
+...
+040 (060.002.000) 2023-08-02 17:23:34 Started transferring output files
+...
+040 (060.001.000) 2023-08-02 17:23:34 Started transferring output files
+...
+006 (060.003.000) 2023-08-02 17:23:34 Image size of job updated: 484
+	1  -  MemoryUsage of job (MB)
+	116  -  ResidentSetSize of job (KB)
+...
+040 (060.002.000) 2023-08-02 17:23:34 Finished transferring output files
+...
+012 (060.000.000) 2023-08-02 17:23:34 Job was held.
+	Transfer output files failure at execution point slot1@node3.g1.23.gsdc.org while sending files to access point node0. Details: reading from file /var/lib/condor/execute/dir_28471/EnergyDeposition_iodine.out: (errno 2) No such file or directory
+	Code 12 Subcode 2
+...
+040 (060.001.000) 2023-08-02 17:23:34 Finished transferring output files
+...
+007 (060.002.000) 2023-08-02 17:23:34 Shadow exception!
+	Error from slot1_1@node2.g1.23.gsdc.org: STARTER at 10.10.10.251 failed to send file(s) to <10.10.10.51:9618>: |Error: reading from file /var/lib/condor/execute/dir_98119/EnergyDeposition_iodine.out: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.10.10.251:28595>
+	966  -  Run Bytes Sent By Job
+	705  -  Run Bytes Received By Job
+...
+040 (060.003.000) 2023-08-02 17:23:34 Started transferring output files
+...
+007 (060.001.000) 2023-08-02 17:23:34 Shadow exception!
+	Error from slot2@node3.g1.23.gsdc.org: STARTER at 10.10.10.24 failed to send file(s) to <10.10.10.51:9618>: |Error: reading from file /var/lib/condor/execute/dir_28472/EnergyDeposition_iodine.out: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.10.10.24:39207>
+	966  -  Run Bytes Sent By Job
+	705  -  Run Bytes Received By Job
+...
+040 (060.003.000) 2023-08-02 17:23:34 Finished transferring output files
+...
+012 (060.002.000) 2023-08-02 17:23:34 Job was held.
+	Transfer output files failure at execution point slot1_1@node2.g1.23.gsdc.org while sending files to access point node0. Details: reading from file /var/lib/condor/execute/dir_98119/EnergyDeposition_iodine.out: (errno 2) No such file or directory
+	Code 12 Subcode 2
+...
+007 (060.003.000) 2023-08-02 17:23:34 Shadow exception!
+	Error from slot1_2@node2.g1.23.gsdc.org: STARTER at 10.10.10.251 failed to send file(s) to <10.10.10.51:9618>: |Error: reading from file /var/lib/condor/execute/dir_98120/EnergyDeposition_iodine.out: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <10.10.10.251:1776>
+	966  -  Run Bytes Sent By Job
+	705  -  Run Bytes Received By Job
+...
+012 (060.001.000) 2023-08-02 17:23:34 Job was held.
+	Transfer output files failure at execution point slot2@node3.g1.23.gsdc.org while sending files to access point node0. Details: reading from file /var/lib/condor/execute/dir_28472/EnergyDeposition_iodine.out: (errno 2) No such file or directory
+	Code 12 Subcode 2
+...
+012 (060.003.000) 2023-08-02 17:23:34 Job was held.
+	Transfer output files failure at execution point slot1_2@node2.g1.23.gsdc.org while sending files to access point node0. Details: reading from file /var/lib/condor/execute/dir_98120/EnergyDeposition_iodine.out: (errno 2) No such file or directory
+	Code 12 Subcode 2
+...
