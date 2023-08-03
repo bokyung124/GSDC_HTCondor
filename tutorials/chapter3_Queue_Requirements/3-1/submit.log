@@ -1,0 +1,624 @@
+000 (014.000.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.001.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.002.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.003.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.004.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.005.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.006.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.007.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.008.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.009.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.010.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.011.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.012.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.013.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.014.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+000 (014.015.000) 2023-08-02 15:29:04 Job submitted from host: <10.10.10.51:9618?addrs=10.10.10.51-9618&alias=node0.g1.23.gsdc.org&noUDP&sock=schedd_120565_23eb>
+...
+040 (014.002.000) 2023-08-02 15:29:23 Started transferring input files
+	Transferring to host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=slot1_84852_a8f4_3>
+...
+040 (014.002.000) 2023-08-02 15:29:23 Finished transferring input files
+...
+040 (014.000.000) 2023-08-02 15:29:23 Started transferring input files
+	Transferring to host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=slot1_26792_233b_5>
+...
+040 (014.000.000) 2023-08-02 15:29:23 Finished transferring input files
+...
+040 (014.003.000) 2023-08-02 15:29:23 Started transferring input files
+	Transferring to host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=slot2_84852_a8f4_4>
+...
+040 (014.003.000) 2023-08-02 15:29:23 Finished transferring input files
+...
+040 (014.001.000) 2023-08-02 15:29:23 Started transferring input files
+	Transferring to host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=slot2_26792_233b_6>
+...
+040 (014.001.000) 2023-08-02 15:29:23 Finished transferring input files
+...
+001 (014.002.000) 2023-08-02 15:29:24 Job executing on host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=startd_84816_4cbe>
+	SlotName: slot1@node2.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_89796"
+	Cpus = 1
+	Disk = 2675670
+	Memory = 1894
+...
+001 (014.000.000) 2023-08-02 15:29:24 Job executing on host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=startd_26758_5741>
+	SlotName: slot1@node3.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_27076"
+	Cpus = 1
+	Disk = 3300458
+	Memory = 1894
+...
+001 (014.003.000) 2023-08-02 15:29:24 Job executing on host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=startd_84816_4cbe>
+	SlotName: slot2@node2.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_89797"
+	Cpus = 1
+	Disk = 2675670
+	Memory = 1894
+...
+001 (014.001.000) 2023-08-02 15:29:24 Job executing on host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=startd_26758_5741>
+	SlotName: slot2@node3.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_27077"
+	Cpus = 1
+	Disk = 3300458
+	Memory = 1894
+...
+006 (014.000.000) 2023-08-02 15:29:24 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (014.002.000) 2023-08-02 15:29:24 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (014.003.000) 2023-08-02 15:29:24 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (014.000.000) 2023-08-02 15:29:24 Started transferring output files
+...
+006 (014.001.000) 2023-08-02 15:29:24 Image size of job updated: 128
+	1  -  MemoryUsage of job (MB)
+	124  -  ResidentSetSize of job (KB)
+...
+040 (014.002.000) 2023-08-02 15:29:24 Started transferring output files
+...
+040 (014.000.000) 2023-08-02 15:29:24 Finished transferring output files
+...
+040 (014.003.000) 2023-08-02 15:29:24 Started transferring output files
+...
+040 (014.002.000) 2023-08-02 15:29:24 Finished transferring output files
+...
+040 (014.001.000) 2023-08-02 15:29:24 Started transferring output files
+...
+040 (014.003.000) 2023-08-02 15:29:24 Finished transferring output files
+...
+040 (014.001.000) 2023-08-02 15:29:24 Finished transferring output files
+...
+005 (014.000.000) 2023-08-02 15:29:24 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   3300458 
+	   Memory (MB)          :        0        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:23Z with exit-code 0.
+...
+005 (014.002.000) 2023-08-02 15:29:24 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   2675670 
+	   Memory (MB)          :        0        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:22Z with exit-code 0.
+...
+005 (014.003.000) 2023-08-02 15:29:24 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   2675670 
+	   Memory (MB)          :        0        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:22Z with exit-code 0.
+...
+005 (014.001.000) 2023-08-02 15:29:24 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   3300458 
+	   Memory (MB)          :        1        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:23Z with exit-code 0.
+...
+040 (014.004.000) 2023-08-02 15:29:24 Started transferring input files
+	Transferring to host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=slot1_26792_233b_7>
+...
+040 (014.004.000) 2023-08-02 15:29:24 Finished transferring input files
+...
+040 (014.005.000) 2023-08-02 15:29:24 Started transferring input files
+	Transferring to host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=slot1_84852_a8f4_5>
+...
+040 (014.005.000) 2023-08-02 15:29:24 Finished transferring input files
+...
+040 (014.006.000) 2023-08-02 15:29:24 Started transferring input files
+	Transferring to host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=slot2_84852_a8f4_6>
+...
+040 (014.007.000) 2023-08-02 15:29:24 Started transferring input files
+	Transferring to host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=slot2_26792_233b_8>
+...
+040 (014.006.000) 2023-08-02 15:29:24 Finished transferring input files
+...
+040 (014.007.000) 2023-08-02 15:29:24 Finished transferring input files
+...
+001 (014.005.000) 2023-08-02 15:29:25 Job executing on host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=startd_84816_4cbe>
+	SlotName: slot1@node2.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_89807"
+	Cpus = 1
+	Disk = 2675670
+	Memory = 1894
+...
+001 (014.004.000) 2023-08-02 15:29:25 Job executing on host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=startd_26758_5741>
+	SlotName: slot1@node3.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_27085"
+	Cpus = 1
+	Disk = 3300458
+	Memory = 1894
+...
+001 (014.006.000) 2023-08-02 15:29:25 Job executing on host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=startd_84816_4cbe>
+	SlotName: slot2@node2.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_89808"
+	Cpus = 1
+	Disk = 2675670
+	Memory = 1894
+...
+001 (014.007.000) 2023-08-02 15:29:25 Job executing on host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=startd_26758_5741>
+	SlotName: slot2@node3.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_27087"
+	Cpus = 1
+	Disk = 3300458
+	Memory = 1894
+...
+006 (014.005.000) 2023-08-02 15:29:25 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (014.004.000) 2023-08-02 15:29:25 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (014.005.000) 2023-08-02 15:29:25 Started transferring output files
+...
+006 (014.006.000) 2023-08-02 15:29:25 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (014.007.000) 2023-08-02 15:29:25 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (014.004.000) 2023-08-02 15:29:25 Started transferring output files
+...
+040 (014.005.000) 2023-08-02 15:29:25 Finished transferring output files
+...
+040 (014.006.000) 2023-08-02 15:29:25 Started transferring output files
+...
+040 (014.004.000) 2023-08-02 15:29:25 Finished transferring output files
+...
+040 (014.006.000) 2023-08-02 15:29:25 Finished transferring output files
+...
+040 (014.007.000) 2023-08-02 15:29:25 Started transferring output files
+...
+040 (014.007.000) 2023-08-02 15:29:25 Finished transferring output files
+...
+005 (014.005.000) 2023-08-02 15:29:25 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   2675670 
+	   Memory (MB)          :        0        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:24Z with exit-code 0.
+...
+005 (014.004.000) 2023-08-02 15:29:25 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   3300458 
+	   Memory (MB)          :        0        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:24Z with exit-code 0.
+...
+005 (014.006.000) 2023-08-02 15:29:25 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   2675670 
+	   Memory (MB)          :        0        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:24Z with exit-code 0.
+...
+005 (014.007.000) 2023-08-02 15:29:25 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   3300458 
+	   Memory (MB)          :        0        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:24Z with exit-code 0.
+...
+040 (014.008.000) 2023-08-02 15:29:25 Started transferring input files
+	Transferring to host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=slot1_84852_a8f4_7>
+...
+040 (014.008.000) 2023-08-02 15:29:25 Finished transferring input files
+...
+040 (014.009.000) 2023-08-02 15:29:25 Started transferring input files
+	Transferring to host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=slot1_26792_233b_9>
+...
+040 (014.009.000) 2023-08-02 15:29:25 Finished transferring input files
+...
+040 (014.010.000) 2023-08-02 15:29:25 Started transferring input files
+	Transferring to host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=slot2_84852_a8f4_8>
+...
+040 (014.010.000) 2023-08-02 15:29:25 Finished transferring input files
+...
+040 (014.011.000) 2023-08-02 15:29:25 Started transferring input files
+	Transferring to host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=slot2_26792_233b_10>
+...
+040 (014.011.000) 2023-08-02 15:29:25 Finished transferring input files
+...
+001 (014.008.000) 2023-08-02 15:29:26 Job executing on host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=startd_84816_4cbe>
+	SlotName: slot1@node2.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_89818"
+	Cpus = 1
+	Disk = 2675670
+	Memory = 1894
+...
+001 (014.009.000) 2023-08-02 15:29:26 Job executing on host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=startd_26758_5741>
+	SlotName: slot1@node3.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_27096"
+	Cpus = 1
+	Disk = 3300458
+	Memory = 1894
+...
+001 (014.010.000) 2023-08-02 15:29:26 Job executing on host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=startd_84816_4cbe>
+	SlotName: slot2@node2.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_89819"
+	Cpus = 1
+	Disk = 2675670
+	Memory = 1894
+...
+001 (014.011.000) 2023-08-02 15:29:26 Job executing on host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=startd_26758_5741>
+	SlotName: slot2@node3.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_27097"
+	Cpus = 1
+	Disk = 3300458
+	Memory = 1894
+...
+006 (014.008.000) 2023-08-02 15:29:26 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (014.009.000) 2023-08-02 15:29:26 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+006 (014.010.000) 2023-08-02 15:29:26 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (014.008.000) 2023-08-02 15:29:26 Started transferring output files
+...
+040 (014.009.000) 2023-08-02 15:29:27 Started transferring output files
+...
+006 (014.011.000) 2023-08-02 15:29:27 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (014.008.000) 2023-08-02 15:29:27 Finished transferring output files
+...
+040 (014.009.000) 2023-08-02 15:29:27 Finished transferring output files
+...
+040 (014.010.000) 2023-08-02 15:29:27 Started transferring output files
+...
+040 (014.011.000) 2023-08-02 15:29:27 Started transferring output files
+...
+040 (014.010.000) 2023-08-02 15:29:27 Finished transferring output files
+...
+040 (014.011.000) 2023-08-02 15:29:27 Finished transferring output files
+...
+005 (014.009.000) 2023-08-02 15:29:27 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   3300458 
+	   Memory (MB)          :        0        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:25Z with exit-code 0.
+...
+005 (014.008.000) 2023-08-02 15:29:27 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   2675670 
+	   Memory (MB)          :        0        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:25Z with exit-code 0.
+...
+005 (014.011.000) 2023-08-02 15:29:27 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   3300458 
+	   Memory (MB)          :        0        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:25Z with exit-code 0.
+...
+005 (014.010.000) 2023-08-02 15:29:27 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   2675670 
+	   Memory (MB)          :        0        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:25Z with exit-code 0.
+...
+040 (014.012.000) 2023-08-02 15:29:27 Started transferring input files
+	Transferring to host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=slot1_26792_233b_11>
+...
+040 (014.013.000) 2023-08-02 15:29:27 Started transferring input files
+	Transferring to host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=slot1_84852_a8f4_9>
+...
+040 (014.013.000) 2023-08-02 15:29:27 Finished transferring input files
+...
+040 (014.012.000) 2023-08-02 15:29:27 Finished transferring input files
+...
+040 (014.014.000) 2023-08-02 15:29:27 Started transferring input files
+	Transferring to host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=slot2_26792_233b_12>
+...
+040 (014.014.000) 2023-08-02 15:29:27 Finished transferring input files
+...
+040 (014.015.000) 2023-08-02 15:29:27 Started transferring input files
+	Transferring to host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=slot2_84852_a8f4_10>
+...
+040 (014.015.000) 2023-08-02 15:29:27 Finished transferring input files
+...
+001 (014.013.000) 2023-08-02 15:29:28 Job executing on host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=startd_84816_4cbe>
+	SlotName: slot1@node2.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_89829"
+	Cpus = 1
+	Disk = 2675670
+	Memory = 1894
+...
+001 (014.012.000) 2023-08-02 15:29:28 Job executing on host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=startd_26758_5741>
+	SlotName: slot1@node3.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_27105"
+	Cpus = 1
+	Disk = 3300458
+	Memory = 1894
+...
+006 (014.013.000) 2023-08-02 15:29:28 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+001 (014.014.000) 2023-08-02 15:29:28 Job executing on host: <10.10.10.24:9618?addrs=10.10.10.24-9618&alias=node3.g1.23.gsdc.org&noUDP&sock=startd_26758_5741>
+	SlotName: slot2@node3.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_27107"
+	Cpus = 1
+	Disk = 3300458
+	Memory = 1894
+...
+006 (014.012.000) 2023-08-02 15:29:28 Image size of job updated: 128
+	1  -  MemoryUsage of job (MB)
+	124  -  ResidentSetSize of job (KB)
+...
+001 (014.015.000) 2023-08-02 15:29:28 Job executing on host: <10.10.10.251:9618?addrs=10.10.10.251-9618&alias=node2.g1.23.gsdc.org&noUDP&sock=startd_84816_4cbe>
+	SlotName: slot2@node2.g1.23.gsdc.org
+	CondorScratchDir = "/var/lib/condor/execute/dir_89831"
+	Cpus = 1
+	Disk = 2675670
+	Memory = 1894
+...
+040 (014.013.000) 2023-08-02 15:29:28 Started transferring output files
+...
+040 (014.012.000) 2023-08-02 15:29:28 Started transferring output files
+...
+040 (014.013.000) 2023-08-02 15:29:28 Finished transferring output files
+...
+006 (014.014.000) 2023-08-02 15:29:28 Image size of job updated: 128
+	1  -  MemoryUsage of job (MB)
+	4  -  ResidentSetSize of job (KB)
+...
+040 (014.012.000) 2023-08-02 15:29:28 Finished transferring output files
+...
+006 (014.015.000) 2023-08-02 15:29:28 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (014.014.000) 2023-08-02 15:29:28 Started transferring output files
+...
+005 (014.013.000) 2023-08-02 15:29:28 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   2675670 
+	   Memory (MB)          :        0        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:26Z with exit-code 0.
+...
+040 (014.014.000) 2023-08-02 15:29:28 Finished transferring output files
+...
+040 (014.015.000) 2023-08-02 15:29:28 Started transferring output files
+...
+005 (014.012.000) 2023-08-02 15:29:28 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   3300458 
+	   Memory (MB)          :        1        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:27Z with exit-code 0.
+...
+040 (014.015.000) 2023-08-02 15:29:28 Finished transferring output files
+...
+005 (014.014.000) 2023-08-02 15:29:28 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   3300458 
+	   Memory (MB)          :        1        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:27Z with exit-code 0.
+...
+005 (014.015.000) 2023-08-02 15:29:28 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	36  -  Run Bytes Sent By Job
+	64  -  Run Bytes Received By Job
+	36  -  Total Bytes Sent By Job
+	64  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        1   2675670 
+	   Memory (MB)          :        0        1      1894 
+
+	Job terminated of its own accord at 2023-08-02T06:29:26Z with exit-code 0.
+...
