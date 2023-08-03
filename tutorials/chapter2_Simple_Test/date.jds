@@ -1,0 +1,10 @@
+JobBatchName = Group1_Chapter2_SimpleSleep
+executable = date.sh
+universe = vanilla
+output = date.out
+error = error.txt
+log   = submit.log
+
+should_transfer_files   = yes
+when_to_transfer_output = ON_EXIT
+queue

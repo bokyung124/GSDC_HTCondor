@@ -1,0 +1,41 @@
+---
+- name: 실습1 결과 설정 
+  gather_facts: no
+  serial: 4
+  hosts: nodeX
+  vars_files:
+    - ../../ansible_setup/vars.yml
+  tasks:
+    - name: 방화벽 패키지를 설치합니다.
+      package:
+        name: firewalld
+        state: present
+    - name: 방화벽을 활성화합니다.
+      service:
+        name: firewalld
+        state: started
+    - name: HTCondor 패키지를 설치 여부를 확입합니다. 
+      command: rpm -q condor
+      args:
+        warn: false
+      register: condor_installed
+      ignore_errors: true
+    - name: HTCondor 패키지를 설치합니다. 설치가 되어있다면 넘어갑니다. 
+      shell: "curl -fsSL https://get.htcondor.org | /bin/bash -s -- --no-dry-run --{{ htcondor_role }} {{ central_manager }} --password {{ password }}"
+      when: condor_installed.stdout.find('is not installed') != -1
+    - name: Role 설정 내용이 정상인지 확인합니다.
+      copy: 
+        dest:  /etc/condor/config.d/01-{{ htcondor_role }}.config
+        content: "CONDOR_HOST = {{ central_manager }}\n# For details, run condor_config_val use role:get_htcondor_{{ htcondor_role }}\nuse role:get_htcondor_{{ htcondor_role | replace('-','_')}}\n"
+      notify:
+        - restart htcondor
+  handlers:
+    - name: restart htcondor
+      service:
+        name: condor
+        state: restarted
+
+
+        
+
+
