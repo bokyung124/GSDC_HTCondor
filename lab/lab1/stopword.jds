@@ -1,0 +1,13 @@
+JobBatchName = Group1_lab2_stopwords_for_news_$(Cluster)
+executable = stopwords.py
+arguments = $(NEWS)
+environment = "LANG=en_US.UTF-8"
+universe = vanilla
+output = $(Process).out
+error = error2.txt
+log = submit2.log
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = $(NEWS)
+queue NEWS matching files *.csv

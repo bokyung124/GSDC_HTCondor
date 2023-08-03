@@ -1,0 +1,13 @@
+JobBatchName = Group1_lab1_output_for_News_$(Cluster)
+executable = loadOutput.py
+arguments = $(FILE)
+environment = "LANG=en_US.UTF-8"
+universe = vanilla
+output = $(FILE).ouput
+error = error.txt
+log = condor.log
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = $(FILE)
+queue FILE matching files *.out

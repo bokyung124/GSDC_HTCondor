@@ -1,0 +1,13 @@
+JobBatchName = Group1_Lab_WordCounter_for_News_$(Cluster)
+executable = wordcounter.py
+arguments = $(NEWS)
+environment = "LANG=en_US.UTF-8"
+universe = vanilla
+output = $(NEWS).out
+error = error.txt
+log = submit.log
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = $(NEWS)
+queue NEWS matching files *.csv 
